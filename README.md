@@ -6,3 +6,9 @@
 - Implemented a streamlined pipeline that initially classifies images for the presence of tumours and, when identified, proceeds to perform precise image
   segmentation for cancer localisation.
 ## TechStack
+- Unet
+- Resnet 50
+- Keras
+- Tensorflow
+- Numpy and Pandas
+  
